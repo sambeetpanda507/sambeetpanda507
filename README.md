@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -   🌱 I’m currently learning WebRTC & React hooks
 -   🤔 I’m looking for help with socket.io
 
-## 🔧 Languages and Tools
+## 🔧 Languages and Tools:
 
 <img width="35" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" > &nbsp;&nbsp;
 <img width="35" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" >
@@ -24,3 +24,18 @@ Here are some ideas to get you started:
 <img width="35" height="30" src="https://cdn-media-1.freecodecamp.org/images/1*FDNeKIUeUnf0XdqHmi7nsw.png" >
 &nbsp;&nbsp;
 <img width="35" height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" >
+
+## &#x1f4c8; GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambeetpanda507&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambeetpanda507&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+
+
+
+
+
+
+
+
+
+

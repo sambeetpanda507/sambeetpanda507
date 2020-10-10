@@ -11,13 +11,14 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express.js&logoColor=green&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=skyblue&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=html-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=html-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Design-Material_UI-informational?style=flat&logo=html-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=green&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=orange&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=3870c9&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=563D7C&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Material_UI-informational?style=flat&logo=material-ui&logoColor=0081CB&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 

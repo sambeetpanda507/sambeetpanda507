@@ -1,5 +1,9 @@
 # Hi there, I'm Sambeet... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<a href="https://www.instagram.com/sambeet_10k/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="25" ></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Sambeet_10k"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" height="25" ></a>&nbsp;&nbsp;
+<a href="https://discord.gg/3UA2yYx"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" height="25" ></a>
+
 Here are some ideas to get you started:
 
 -   🔭 I’m currently working on video calling application

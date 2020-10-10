@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on video calling application
-- 🌱 I’m currently learning WebRTC
+- 🌱 I’m currently learning WebRTC,React hooks
 - 🤔 I’m looking for help with socket.io
 
 ### 🔧 Languages and Tools

@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 
 ## 🔧 Languages and Tools:
 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+<br/><br/>
 <img width="35" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" > &nbsp;&nbsp;
 <img width="35" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" >
 &nbsp;&nbsp;
@@ -23,7 +26,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 <img width="35" height="30" src="https://cdn-media-1.freecodecamp.org/images/1*FDNeKIUeUnf0XdqHmi7nsw.png" >
 &nbsp;&nbsp;
-<img width="35" height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" >
 
 ## &#x1f4c8; GitHub Stats
 
@@ -33,3 +35,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/sambeetpanda507/sambeetpanda507">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sambeetpanda507&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="sambeet's GitHub Stats" />
 </a>
+

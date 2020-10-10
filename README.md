@@ -1,11 +1,10 @@
 <img src='https://i.pinimg.com/originals/41/f5/2d/41f52d4e756d803f9f1851335dba96f6.gif' height="300" width='1000'>
+
 # Hi there, I'm Sambeet... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://www.instagram.com/sambeet_10k/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="25" ></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Sambeet_10k"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" height="25" ></a>&nbsp;&nbsp;
 <a href="https://discord.gg/3UA2yYx"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" height="25" ></a>
-
-Hi, I'm Sambeet Sekhar Panda, a passionate fullstack web developer from India 🇮🇳.
 
 Here are some ideas to get you started:
 
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=green&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=orange&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=3870c9&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=563D7C&color=2bbc8a)
 ![](https://img.shields.io/badge/Design-Material_UI-informational?style=flat&logo=material-ui&logoColor=0081CB&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats

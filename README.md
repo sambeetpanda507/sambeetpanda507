@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 &nbsp;
 <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" >
 &nbsp;
-<img width="30" height="30" src="https://cdn.freebiesupply.com/logos/thumbs/2x/mongodb-logo.png" >
+<img width="30" height="30" src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" >
+
 

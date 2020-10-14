@@ -6,7 +6,7 @@
 <a href="https://twitter.com/Sambeet_10k"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" height="25" ></a>&nbsp;&nbsp;
 <a href="https://discord.gg/3UA2yYx"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" height="25" ></a>
 
-Hi, I'm Sambeet Sekhar Panda, a passionate fullStack web developer from India 🇮🇳.
+Hi, I'm Sambeet Sekhar Panda, a passionate full stack web developer from India 🇮🇳.
 
 Here are some ideas to get you started:
 

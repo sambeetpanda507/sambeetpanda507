@@ -41,5 +41,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambeetpanda507&layout=pie" alt="sambeet's GitHub Stats" />
 </a>
 <a href="https://github.com/sambeetpanda507/sambeetpanda507">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sambeetpanda507" alt="sambeet's GitHub Stats" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=sambeetpanda507&theme=dark" alt="sambeet's GitHub Stats" />
 </a>

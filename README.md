@@ -2,7 +2,7 @@
 
 # Hi, I'm Sambeet Sekhar Panda 👋
 
-### Product Engineer · Backend & AI Systems
+### Backend & AI Systems
 
 I build production-grade web platforms, backend systems, developer workflows, and AI-powered products.
 
